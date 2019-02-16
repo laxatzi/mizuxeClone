@@ -9,3 +9,8 @@ body {
      opacity : .9;
      background: #fff;
    }
+
+   .nav-item {
+     font-size: 1.4rem;
+     padding-right: 1.4rem;
+   }
