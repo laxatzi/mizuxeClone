@@ -1,3 +1,11 @@
 /* main color = #3292A6;
  overlay = rgba(50, 146, 166, .8);
 */
+body {
+  margin-top: 105px;
+}
+   .navbar {
+     box-shadow: 2px 2px 5px #3292a6;
+     opacity : .9;
+     background: #fff;
+   }
