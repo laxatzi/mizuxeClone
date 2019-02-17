@@ -14,3 +14,6 @@ body {
      font-size: 1.4rem;
      padding-right: 1.4rem;
    }
+   .primary-overlay {
+     background-color: rgba(50, 146, 166, .8);
+   }
