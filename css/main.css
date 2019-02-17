@@ -14,8 +14,19 @@ body {
      font-size: 1.4rem;
      padding-right: 1.4rem;
    }
-   .primary-overlay {
-     background-color: rgba(50, 146, 166, .8);
-   }
+   
 
- 
+  #showcase-section {
+      position: relative;
+      background-image: url('../img/mountains.jpg');
+      min-height: 700px;
+  }
+
+  #showcase-section .primary-overlay {
+    background-color: rgba(50, 146, 166, .8);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    min-height: inherit;
+  }
