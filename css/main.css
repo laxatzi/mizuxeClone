@@ -31,8 +31,11 @@ body {
     width: 100%;
     min-height: inherit;
   }
-
- 
+ /* Custom css */
+  .main-color {
+    background-color: #3292A6;
+    color: #fff;
+  }
   @media(max-width: 768px) {
 
      #showcase {
