@@ -39,9 +39,9 @@ body {
   @media(max-width: 768px) {
 
      #showcase {
-       min-height: 500px;
+       min-height: 85vh;
      }
      #showcase h1 { 
-       font-size: 4rem;
+       font-size: 3.5rem;
      }
   }
