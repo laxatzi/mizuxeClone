@@ -36,6 +36,9 @@ body {
     background-color: #3292A6;
     color: #fff;
   }
+  .border-main {
+    border-color: #3292A6;
+  }
   @media(max-width: 768px) {
 
      #showcase {
