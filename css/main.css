@@ -31,6 +31,9 @@ body {
     width: 100%;
     min-height: inherit;
   }
+  .info-header {
+    max-width: 50vw;
+  }
  /* Custom css */
   .bg-main {
     background-color: #3292A6;
