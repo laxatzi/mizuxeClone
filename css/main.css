@@ -35,6 +35,21 @@ body {
     max-width: 50vw;
     border-bottom: 1px solid #ccc;
   }
+
+   #authors img {
+     margin-top: -50px;
+   }
+   #authors .card:hover {
+      background-color: #3292a6;
+      color: rgba(255,255,255, .8);
+   }
+  #authors .fab {
+     font-size: 150%;
+   }
+  #authors .card:hover .fab {
+        color: rgba(255,255,255, .8);   
+   }
+
  /* Custom css */
   .bg-main {
     background-color: #3292A6;
