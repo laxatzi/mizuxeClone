@@ -15,7 +15,9 @@ body {
      padding-right: 1.4rem;
    }
    
-
+  #main-nav a.nav-link:hover {
+    color: rgba(50, 146, 166, .8);
+  }
   #showcase {
       position: relative;
       background-image: url('../img/mountains.jpg');
