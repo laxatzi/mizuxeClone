@@ -15,7 +15,10 @@ body {
      padding-right: 1.4rem;
    }
    
-   li:active a { color: #3292a6 !important; }
+    .navbar-light .navbar-nav .nav-link:focus,
+    .navbar-light .navbar-nav .nav-link:hover {
+      color: rgb(50, 146, 166);
+    }
   #showcase {
       position: relative;
       background-image: url('../img/mountains.jpg');
