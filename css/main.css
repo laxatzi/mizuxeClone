@@ -19,6 +19,9 @@ body {
     .navbar-light .navbar-nav .nav-link:hover {
       color: rgb(50, 146, 166);
     }
+    .navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show > .nav-link {
+      color: rgb(50, 146, 166);
+    }
   #showcase {
       position: relative;
       background-image: url('../img/mountains.jpg');
